@@ -1,4 +1,5 @@
-﻿;服务器分组	局域名称	局域IP地址	端口	公告地址	网站主页	装备展示	网关密码
+﻿;3KM2服务列表
+;服务器分组	局域名称	局域IP地址	端口	公告地址	网站主页	装备展示	网关密码
 本机登陆口|╔══╦══════════╗|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
 本机登陆口|║单机║白黑网络(单机登录口)║|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
 本机登陆口|╚══╩══════════╝|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
