@@ -1,0 +1,18 @@
+;服务器分组	局域名称	局域IP地址	端口	公告地址	网站主页	装备展示	网关密码
+本机登陆口|╔══╦══════════╗|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+本机登陆口|║单机║白黑网络(单机登录口)║|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+本机登陆口|╚══╩══════════╝|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+
+局域网登陆口|╔════════════╗|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+局域网登陆口|║联机网络║局域网登录A001║|192.168.0.5|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+局域网登陆口|║联机网络║局域网登录A002║|192.168.0.8|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+局域网登陆口|║联机网络║局域网登录A003║|192.168.0.10|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+局域网登陆口|╚════════════╝|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+
+外网登陆口|╔══╦══════════╗|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+外网登陆口|║白黑║西瓜外网(假人攻城版)║|116.25.237.172|7000|http://www.baihei.net/dlq/q/htl.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+外网登陆口|║网络║联网测试(假人攻城版)║|116.25.237.172|7001|http://www.baihei.net/dlq/q/htl.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+外网登陆口|║白黑网络  www.baihei.net  ║|58.23.224.169|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+外网登陆口|║联机║白黑网络(外网登录口)║|10.244.162.226|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+外网登陆口|║联机║白黑网络(外网登录口)║|124.238.237.76|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+外网登陆口|╚═════════════╝|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
