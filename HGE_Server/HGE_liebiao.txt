@@ -1,54 +1,54 @@
-[Server]
-;����ɫ,����ɫ,ѡ�б���ɫ,ѡ������ɫ|Сͼ���ļ���|��������|��Ϸ����|������IP|�������˿�|΢��IP|΢�˶˿�|����ǽ�˿�(û����д0)
--1|1.bmp|��������|����������|192.168.0.8|7000|127.0.0.1|6200|0
--1|1.bmp|��������|��������7001|127.0.0.1|7000|127.0.0.1|6200|0
+﻿[Server]
+;背景色,文字色,选中背景色,选中文字色|小图标文件名|分组名称|游戏名称|服务器IP|服务器端口|微端IP|微端端口|防火墙端口(没有填写0)
+-1|1.bmp|单机测试|局域网测试|192.168.0.8|7000|127.0.0.1|6200|0
+-1|1.bmp|单机测试|单机测试7001|127.0.0.1|7000|127.0.0.1|6200|0
 
-;��ɫ������д-1��ʹ��Ĭ��
-;��Ҫ���������Զ�����ɫ��ͼƬ�����б��е����ӷ���������
-;249|2.bmp|������Ϸ
+;颜色部分填写-1则使用默认
+;如要分组名称自定义颜色或图片请在列表中单独加分组名例：
+;249|2.bmp|单机游戏
 
 [Expand]
-;�����Զ�չ�����ã�1=չ�� 0=��չ��
-��������=1
+;分组自动展开设置，1=展开 0=不展开
+单机测试=1
 
 
 [Setup]
-�����ַ=http://www.hgem2.com
-��վ��ҳ=http://www.hgem2.com
-װ��չʾ=http://www.hgem2.com
+公告地址=http://www.hgem2.com
+网站主页=http://www.hgem2.com
+装备展示=http://www.hgem2.com
 
-;EϵͳΪ��Ϸ��������e�ı�־��ַ
-Eϵͳ=http://www.hgem2.com
+;E系统为游戏中聊天栏e的标志网址
+E系统=http://www.hgem2.com
 
-;�б�ʹ��ͼ��ʱ����"Сͼ���ļ���"��Ҫ��д�������¡��б�Сͼ�ꡱ�ļ����ڵ��ļ�����0-��ʹ�ã�1-ʹ��
-�б�Сͼ��=1
+;列表使用图标时上面"小图标文件名"需要填写配置器下“列表小图标”文件夹内的文件名，0-不使用，1-使用
+列表小图标=1
 
-;0=��ʹ�� 1=��ħ��
-����ǽ����=0
-
-
+;0=不使用 1=恶魔盾
+防火墙类型=0
 
 
-;=================����Ϊ���²��֣����ϸ�ʽһ��=================
-;ע�⣺�������ص�ַֻ֧��http
+
+
+;=================以下为更新部分，和老格式一样=================
+;注意：更新下载地址只支持http
 [SelfUpdate]
 Self=md5,http://192.168.0.8/HGE_Laurch.exe
-;��¼���������и��£��˽ڵ�ֻ����һ�����ݣ���ռ䲻֧��exe���أ���׺��֧��������
-;��ʽ��Self=md5,���ص�ַ
-;����Self=md5,http://www.xxx.com/xxx.exe
+;登录器自身进行更新，此节点只能有一行数据，如空间不支持exe下载，后缀可支持任意名
+;格式：Self=md5,下载地址
+;例：Self=md5,http://www.xxx.com/xxx.exe
 
 [FileUpdate]
 Resources\Data\ClientMon.dat=0d435e33580363dd1387d8c4d2a7cbf7,http://192.168.0.8/ClientMon.dat
-;��ͨ�ļ����£�һ��һ���ļ�
-;��ʽ��Ŀ���ļ�=md5,���ص�ַ
-;����Resources\Data\ClientMon.dat=0d435e33580363dd1387d8c4d2a7cbf7,http://www.xxx.com/ClientMon.dat
+;普通文件更新，一行一个文件
+;格式：目标文件=md5,下载地址
+;例：Resources\Data\ClientMon.dat=0d435e33580363dd1387d8c4d2a7cbf7,http://www.xxx.com/ClientMon.dat
 
 [ZipUpdate]
-;ѹ�������²���ѹ��ѹ�������غ�ᱣ�浽�û����أ���Ŀ���ļ��Ķ�����ѹ����MD5û�仯��ֱ�ӽ�ѹ���������أ�һ��һ���ļ�
-;��ʽ��Ŀ���ļ�=ѹ����˵��,Ŀ���ļ�md5,ѹ����md5,���ص�ַ
-;����Resources\Data\ClientMon.dat=�Զ���ֲ���,0d435e33580363dd1387d8c4d2a7cbf7,9b8c3eb022d9dcfaaa07c8c688212e2f,http://www.xxx.com/xxx.zip
+;压缩包更新并解压，压缩包下载后会保存到用户本地，如目标文件改动并且压缩包MD5没变化将直接解压，无需下载，一行一个文件
+;格式：目标文件=压缩包说明,目标文件md5,压缩包md5,下载地址
+;例：Resources\Data\ClientMon.dat=自定义怪补丁,0d435e33580363dd1387d8c4d2a7cbf7,9b8c3eb022d9dcfaaa07c8c688212e2f,http://www.xxx.com/xxx.zip
 
 [DeleteFile]
-;��ɾ�����ļ���һ��һ���ļ�
-;��ʽ��File=Ŀ���ļ�
-;����File=Resources\Data\ClientMon.dat
+;需删除的文件，一行一个文件
+;格式：File=目标文件
+;例：File=Resources\Data\ClientMon.dat

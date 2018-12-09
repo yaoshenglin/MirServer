@@ -1,18 +1,18 @@
-;·şÎñÆ÷·Ö×é	¾ÖÓòÃû³Æ	¾ÖÓòIPµØÖ·	¶Ë¿Ú	¹«¸æµØÖ·	ÍøÕ¾Ö÷Ò³	×°±¸Õ¹Ê¾	Íø¹ØÃÜÂë
-±¾»úµÇÂ½¿Ú|¨X¨T¨T¨j¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨[|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
-±¾»úµÇÂ½¿Ú|¨Uµ¥»ú¨U°×ºÚÍøÂç(µ¥»úµÇÂ¼¿Ú)¨U|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
-±¾»úµÇÂ½¿Ú|¨^¨T¨T¨m¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨a|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+ï»¿;æœåŠ¡å™¨åˆ†ç»„	å±€åŸŸåç§°	å±€åŸŸIPåœ°å€	ç«¯å£	å…¬å‘Šåœ°å€	ç½‘ç«™ä¸»é¡µ	è£…å¤‡å±•ç¤º	ç½‘å…³å¯†ç 
+æœ¬æœºç™»é™†å£|â•”â•â•â•¦â•â•â•â•â•â•â•â•â•â•â•—|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+æœ¬æœºç™»é™†å£|â•‘å•æœºâ•‘ç™½é»‘ç½‘ç»œ(å•æœºç™»å½•å£)â•‘|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+æœ¬æœºç™»é™†å£|â•šâ•â•â•©â•â•â•â•â•â•â•â•â•â•â•|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
 
-¾ÖÓòÍøµÇÂ½¿Ú|¨X¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨[|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
-¾ÖÓòÍøµÇÂ½¿Ú|¨UÁª»úÍøÂç¨U¾ÖÓòÍøµÇÂ¼A001¨U|192.168.0.5|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
-¾ÖÓòÍøµÇÂ½¿Ú|¨UÁª»úÍøÂç¨U¾ÖÓòÍøµÇÂ¼A002¨U|192.168.0.8|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
-¾ÖÓòÍøµÇÂ½¿Ú|¨UÁª»úÍøÂç¨U¾ÖÓòÍøµÇÂ¼A003¨U|192.168.0.10|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
-¾ÖÓòÍøµÇÂ½¿Ú|¨^¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨a|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+å±€åŸŸç½‘ç™»é™†å£|â•”â•â•â•â•â•â•â•â•â•â•â•â•â•—|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+å±€åŸŸç½‘ç™»é™†å£|â•‘è”æœºç½‘ç»œâ•‘å±€åŸŸç½‘ç™»å½•A001â•‘|192.168.0.5|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+å±€åŸŸç½‘ç™»é™†å£|â•‘è”æœºç½‘ç»œâ•‘å±€åŸŸç½‘ç™»å½•A002â•‘|192.168.0.8|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+å±€åŸŸç½‘ç™»é™†å£|â•‘è”æœºç½‘ç»œâ•‘å±€åŸŸç½‘ç™»å½•A003â•‘|192.168.0.10|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+å±€åŸŸç½‘ç™»é™†å£|â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
 
-ÍâÍøµÇÂ½¿Ú|¨X¨T¨T¨j¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨[|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
-ÍâÍøµÇÂ½¿Ú|¨U°×ºÚ¨UÎ÷¹ÏÍâÍø(¼ÙÈË¹¥³Ç°æ)¨U|116.25.237.172|7000|http://www.baihei.net/dlq/q/htl.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
-ÍâÍøµÇÂ½¿Ú|¨UÍøÂç¨UÁªÍø²âÊÔ(¼ÙÈË¹¥³Ç°æ)¨U|116.25.237.172|7001|http://www.baihei.net/dlq/q/htl.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
-ÍâÍøµÇÂ½¿Ú|¨U°×ºÚÍøÂç  www.baihei.net  ¨U|58.23.224.169|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
-ÍâÍøµÇÂ½¿Ú|¨UÁª»ú¨U°×ºÚÍøÂç(ÍâÍøµÇÂ¼¿Ú)¨U|10.244.162.226|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
-ÍâÍøµÇÂ½¿Ú|¨UÁª»ú¨U°×ºÚÍøÂç(ÍâÍøµÇÂ¼¿Ú)¨U|124.238.237.76|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
-ÍâÍøµÇÂ½¿Ú|¨^¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨a|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+å¤–ç½‘ç™»é™†å£|â•”â•â•â•¦â•â•â•â•â•â•â•â•â•â•â•—|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+å¤–ç½‘ç™»é™†å£|â•‘ç™½é»‘â•‘è¥¿ç“œå¤–ç½‘(å‡äººæ”»åŸç‰ˆ)â•‘|116.25.237.172|7000|http://www.baihei.net/dlq/q/htl.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+å¤–ç½‘ç™»é™†å£|â•‘ç½‘ç»œâ•‘è”ç½‘æµ‹è¯•(å‡äººæ”»åŸç‰ˆ)â•‘|116.25.237.172|7001|http://www.baihei.net/dlq/q/htl.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+å¤–ç½‘ç™»é™†å£|â•‘ç™½é»‘ç½‘ç»œ  www.baihei.net  â•‘|58.23.224.169|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+å¤–ç½‘ç™»é™†å£|â•‘è”æœºâ•‘ç™½é»‘ç½‘ç»œ(å¤–ç½‘ç™»å½•å£)â•‘|10.244.162.226|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+å¤–ç½‘ç™»é™†å£|â•‘è”æœºâ•‘ç™½é»‘ç½‘ç»œ(å¤–ç½‘ç™»å½•å£)â•‘|124.238.237.76|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
+å¤–ç½‘ç™»é™†å£|â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•|127.0.0.1|7000|http://www.baihei.net/dlq/q/link.htm|http://www.baihei.net|http://www.baihei.net|abcRoot
